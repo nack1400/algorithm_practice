@@ -6,3 +6,4 @@
 - [문장 속 가장 긴 단어 찾기](src/string/WordSentence.java)
 - [단어 뒤집기](src/string/WordFlip.java)
 - [특정 단어 뒤집기](src/string/SpecificWordFlip.java)
+- [중복 문자 제거](src/string/RemoveDuplicates.java)
