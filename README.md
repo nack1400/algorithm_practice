@@ -7,3 +7,4 @@
 - [단어 뒤집기](src/string/WordFlip.java)
 - [특정 단어 뒤집기](src/string/SpecificWordFlip.java)
 - [중복 문자 제거](src/string/RemoveDuplicates.java)
+- [회문 문자열 체크](src/string/PalindromeCheck.java)
