@@ -8,3 +8,4 @@
 - [특정 단어 뒤집기](src/string/SpecificWordFlip.java)
 - [중복 문자 제거](src/string/RemoveDuplicates.java)
 - [회문 문자열 체크](src/string/PalindromeCheck.java)
+- [유효한 팰린드롬(알파벳만 체크)](src/string/PalindromeAlphabetCheck.java)
