@@ -10,3 +10,4 @@
 - [회문 문자열 체크](src/string/PalindromeCheck.java)
 - [유효한 팰린드롬(알파벳만 체크)](src/string/PalindromeAlphabetCheck.java)
 - [숫자만 추출](src/string/NumberExtraction.java)
+- [문자 사이 거리](src/string/CharacterDistance.java)
