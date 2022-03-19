@@ -12,3 +12,4 @@
 - [숫자만 추출](src/string/NumberExtraction.java)
 - [문자 사이 거리](src/string/CharacterDistance.java)
 - [문자열 압축](src/string/StringCompression.java)
+- [암호](src/string/Password.java)
