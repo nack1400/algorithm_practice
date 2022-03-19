@@ -22,7 +22,7 @@ public class StringCompression {
     StringCompression T = new StringCompression();
     Scanner kb = new Scanner(System.in);
     String s = kb.next();
-    System.out.println(T.solution(s));
+    System.out.println(T.solution2(s));
   }
 
   // 해결방법 (혼자 풀어본 것)
@@ -58,7 +58,7 @@ public class StringCompression {
     String answer = "";
     s = s + " "; // 마지막 문자 출력을 위한 빈 문자
     int cnt = 1;
-    for (int i = 0; i < s.length(); i++) {
+    for (int i = 0; i < s.length() -1 ; i++) { // 마지막 문자 제외하고 반복
       if (s.charAt(i) == s.charAt(i + 1)) cnt++; // 앞의 문자와 같다면 카운트
       else {
         answer += s.charAt(i); // 앞의 문자와 다르다면 출력
