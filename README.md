@@ -16,3 +16,4 @@
 
 ### 2. Array(1,2차원 배열)
 - [큰 수 출력](src/array/LargeNumberOutput.java)
+- [보이는 학생](src/array/VisibleStudent.java)
