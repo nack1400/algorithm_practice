@@ -19,3 +19,5 @@
 - [보이는 학생](src/array/VisibleStudent.java)
 - [가위바위보](src/array/RockPaperScissors.java)
 - [피보나치 수열](src/array/FibonacciSequence.java)
+- [소수(에라토스테네스의 체)](src/array/PrimeNumber.java)
+- [뒤집은 소수](src/array/InvertedPrimeNumber.java)
