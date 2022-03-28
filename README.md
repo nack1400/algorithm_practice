@@ -21,3 +21,5 @@
 - [피보나치 수열](src/array/FibonacciSequence.java)
 - [소수(에라토스테네스의 체)](src/array/PrimeNumber.java)
 - [뒤집은 소수](src/array/InvertedPrimeNumber.java)
+- [점수 계산](src/array/ScoreCalculation.java)
+- [등수 구하기](src/array/CountRank.java)
