@@ -24,3 +24,4 @@
 - [점수 계산](src/array/ScoreCalculation.java)
 - [등수 구하기](src/array/CountRank.java)
 - [격자판 최대합](src/array/GridMaximumSum.java)
+- [봉우리 개수 구하기](src/array/CountPeaks.java)
