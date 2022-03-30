@@ -25,3 +25,4 @@
 - [등수 구하기](src/array/CountRank.java)
 - [격자판 최대합](src/array/GridMaximumSum.java)
 - [봉우리 개수 구하기](src/array/CountPeaks.java)
+- [임시 반장 정하기](src/array/ChoosePresident.java)
