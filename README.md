@@ -27,3 +27,6 @@
 - [봉우리 개수 구하기](src/array/CountPeaks.java)
 - [임시 반장 정하기](src/array/ChoosePresident.java)
 - [멘토링](src/array/Mentoring.java)
+
+### 3. Two pointers, Sliding window(효율성 : O(n^2 -> O(n))
+- [두 배열 합치기](src/twoPointer_slidingWindow/CombineTwoSequences.java)
