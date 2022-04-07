@@ -34,3 +34,4 @@
 - [최대 매출](src/twoPointer_slidingWindow/MaximumSales.java)
 - [연속 부분수열](src/twoPointer_slidingWindow/ContinuousPartialSequence.java)
 - [연속된 자연수의 합(two pointers)](src/twoPointer_slidingWindow/ContinuousSum.java)
+- [최대 길이 연속부분수열](src/twoPointer_slidingWindow/MaximumLengthContinuousSubsequence.java)
