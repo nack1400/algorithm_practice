@@ -35,3 +35,6 @@
 - [연속 부분수열](src/twoPointer_slidingWindow/ContinuousPartialSequence.java)
 - [연속된 자연수의 합(two pointers)](src/twoPointer_slidingWindow/ContinuousSum.java)
 - [최대 길이 연속부분수열](src/twoPointer_slidingWindow/MaximumLengthContinuousSubsequence.java)
+
+### 4. HashMap, TreeSet(해쉬, 정렬지원 Set)
+- [학급 회장 선거](src/hashMap/PresidentialElection.java)
