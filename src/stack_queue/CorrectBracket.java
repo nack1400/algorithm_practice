@@ -44,4 +44,5 @@ public class CorrectBracket {
     if(!stack.isEmpty()) return "NO"; // 모든 문자를 다 검사했는데 스택이 남았으면 NO 리턴
     return answer;
   }
+
 }
