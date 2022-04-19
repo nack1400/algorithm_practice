@@ -50,3 +50,4 @@
 - [후위식 연산(postfix)](src/stack_queue/Postfix.java)
 - [쇠막대기](src/stack_queue/IronRod.java)
 - [공주 구하기](src/stack_queue/RescuePrincess.java)
+- [교육과정 설계](src/stack_queue/ClassPlanDesign.java)
