@@ -51,3 +51,6 @@
 - [쇠막대기](src/stack_queue/IronRod.java)
 - [공주 구하기](src/stack_queue/RescuePrincess.java)
 - [교육과정 설계](src/stack_queue/ClassPlanDesign.java)
+- [응급실](src/stack_queue/EmergencyRoom.java)
+
+### 6. Sorting, Searching(정렬, 이분검색과 결정 알고리즘)
