@@ -54,3 +54,4 @@
 - [응급실](src/stack_queue/EmergencyRoom.java)
 
 ### 6. Sorting, Searching(정렬, 이분검색과 결정 알고리즘)
+- [선택 정렬](src/sorting_searching/SelectionSort.java)
