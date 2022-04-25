@@ -58,3 +58,4 @@
 - [버블 정렬](src/sorting_searching/BubbleSort.java)
 - [삽입 정렬](src/sorting_searching/InsertionSort.java)
 - [LRU](src/sorting_searching/LeastRecentlyUsed.java)
+- [중복 확인](src/sorting_searching/CheckDuplication.java)
