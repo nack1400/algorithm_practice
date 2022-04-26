@@ -59,3 +59,4 @@
 - [삽입 정렬](src/sorting_searching/InsertionSort.java)
 - [LRU](src/sorting_searching/LeastRecentlyUsed.java)
 - [중복 확인](src/sorting_searching/CheckDuplication.java)
+- [장난꾸러기](src/sorting_searching/Monkey.java)
