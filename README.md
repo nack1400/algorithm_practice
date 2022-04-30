@@ -63,3 +63,4 @@
 - [좌표 정렬](src/sorting_searching/CompareTo.java)
 - [이분 정렬](src/sorting_searching/BinarySearch.java)
 - [뮤직비디오(결정 알고리즘)](src/sorting_searching/MusicVideo.java)
+- [마굿간 정하기(결정 알고리즘)](src/sorting_searching/DecidingStable.java)
