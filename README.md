@@ -79,3 +79,6 @@
 - [경로탐색(DFS)](src/recursive_tree_graph/PathSearch_DFS.java)
 - [경로탐색(인접리스트, ArrayList)](src/recursive_tree_graph/PathSearch_ArrayList.java)
 - [그래프 최단거리(BFS)](src/recursive_tree_graph/Graph_BFS.java)
+
+### 8. DFS, BFS 활용
+- [합이 같은 부분집합(DFS)](src/dfs_bfs/SubsetOfEqualSum.java)
