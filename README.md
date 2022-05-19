@@ -86,3 +86,4 @@
 - [최대 점수 구하기(DFS)](src/dfs_bfs/MaximumScore.java)
 - [중복순열 구하기(DFS)](src/dfs_bfs/PermutationWithRepetition.java)
 - [동전교환(DFS)](src/dfs_bfs/CoinExchange.java)
+- [순열 구하기(DFS)](src/dfs_bfs/Permutation.java)
