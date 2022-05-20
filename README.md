@@ -87,3 +87,4 @@
 - [중복순열 구하기(DFS)](src/dfs_bfs/PermutationWithRepetition.java)
 - [동전교환(DFS)](src/dfs_bfs/CoinExchange.java)
 - [순열 구하기(DFS)](src/dfs_bfs/Permutation.java)
+- [조합수(DFS, 메모이제이션)](src/dfs_bfs/NumberOfCombinations.java)
