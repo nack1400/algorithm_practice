@@ -90,3 +90,4 @@
 - [조합수(DFS, 메모이제이션)](src/dfs_bfs/NumberOfCombinations.java)
 - [순열 추측하기(DFS, 파스칼의 삼각형)](src/dfs_bfs/PascalTriangle.java)
 - [조합 구하기(DFS)](src/dfs_bfs/Combination.java)
+- [미로탐색(DFS)](src/dfs_bfs/Maze.java)
