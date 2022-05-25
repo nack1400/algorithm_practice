@@ -91,3 +91,4 @@
 - [순열 추측하기(DFS, 파스칼의 삼각형)](src/dfs_bfs/PascalTriangle.java)
 - [조합 구하기(DFS)](src/dfs_bfs/Combination.java)
 - [미로탐색(DFS)](src/dfs_bfs/Maze.java)
+- [미로의 최단거리 통로(BFS)](src/dfs_bfs/ShortestDistanceInMaze.java)
