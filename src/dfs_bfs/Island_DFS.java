@@ -29,13 +29,13 @@ N*N의 섬나라 아일랜드의 지도가 격자판의 정보로 주어집니�
 
 import java.util.Scanner;
 
-public class Island {
+public class Island_DFS {
   static int answer = 0, n;
   static int[] dx = {-1, -1, 0, 1, 1, 1, 0, -1};
   static int[] dy = {0, 1, 1, 1, 0, -1, -1, -1};
 
   public static void main(String[] args) {
-    Island T = new Island();
+    Island_DFS T = new Island_DFS();
     Scanner kb = new Scanner(System.in);
 
     n = kb.nextInt();
