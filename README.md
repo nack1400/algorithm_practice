@@ -96,3 +96,6 @@
 - [섬나라 아일랜드(DFS)](src/dfs_bfs/Island_DFS.java)
 - [섬나라 아일랜드(BFS)](src/dfs_bfs/Island_BFS.java)
 - [피자 배달 거리(DFS)](src/dfs_bfs/PizzaDelivery.java)
+
+### 9. Greedy Algorithm
+- [씨름선수](src/greedyAlgorithm/Wrestling.java)
