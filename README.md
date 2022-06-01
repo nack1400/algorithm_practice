@@ -101,3 +101,4 @@
 - [씨름선수](src/greedyAlgorithm/Wrestling.java)
 - [회의실 배정](src/greedyAlgorithm/ConferenceRoomAssignment.java)
 - [결혼식](src/greedyAlgorithm/Wedding.java)
+- [최대 수입 스케줄](src/greedyAlgorithm/MaximumIncome.java)
