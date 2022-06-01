@@ -100,3 +100,4 @@
 ### 9. Greedy Algorithm
 - [씨름선수](src/greedyAlgorithm/Wrestling.java)
 - [회의실 배정](src/greedyAlgorithm/ConferenceRoomAssignment.java)
+- [결혼식](src/greedyAlgorithm/Wedding.java)
