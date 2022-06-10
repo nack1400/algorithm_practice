@@ -103,4 +103,5 @@
 - [결혼식](src/greedyAlgorithm/Wedding.java)
 - [최대 수입 스케줄](src/greedyAlgorithm/MaximumIncome.java)
 - [다익스트라(Dijkstra) 알고리즘](src/greedyAlgorithm/Dijkstra.java)
-- [친구인가(Disjoint-Set: Uion&Find)](src/greedyAlgorithm/DisjointSet.java)
+- [친구인가(Disjoint-Set: Union&Find)](src/greedyAlgorithm/DisjointSet.java)
+- [원더랜드(크루스칼: Union&Find)](src/greedyAlgorithm/WonderlandKruskal.java)
