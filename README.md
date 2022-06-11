@@ -105,3 +105,4 @@
 - [다익스트라(Dijkstra) 알고리즘](src/greedyAlgorithm/Dijkstra.java)
 - [친구인가(Disjoint-Set: Union&Find)](src/greedyAlgorithm/DisjointSet.java)
 - [원더랜드(크루스칼: Union&Find)](src/greedyAlgorithm/WonderlandKruskal.java)
+- [원더랜드(프림: Priority Queue)](src/greedyAlgorithm/WonderlandPrim.java)
