@@ -97,7 +97,7 @@
 - [섬나라 아일랜드(BFS)](src/dfs_bfs/Island_BFS.java)
 - [피자 배달 거리(DFS)](src/dfs_bfs/PizzaDelivery.java)
 
-### 9. Greedy Algorithm
+### 9. Greedy Algorithm(탐욕 알고리즘)
 - [씨름선수](src/greedyAlgorithm/Wrestling.java)
 - [회의실 배정](src/greedyAlgorithm/ConferenceRoomAssignment.java)
 - [결혼식](src/greedyAlgorithm/Wedding.java)
@@ -106,3 +106,6 @@
 - [친구인가(Disjoint-Set: Union&Find)](src/greedyAlgorithm/DisjointSet.java)
 - [원더랜드(크루스칼: Union&Find)](src/greedyAlgorithm/WonderlandKruskal.java)
 - [원더랜드(프림: Priority Queue)](src/greedyAlgorithm/WonderlandPrim.java)
+
+### 10. Dynamic Programming(동적 계획법)
+- [계단 오르기](src/dynamicProgramming/Stairs.java)
